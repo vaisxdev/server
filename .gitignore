@@ -42,3 +42,7 @@ Thumbs.db
 # Others
 *.bak
 *.tmp
+
+prisma/migrations/
+prisma/.env
+
